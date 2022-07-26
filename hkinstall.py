@@ -16,7 +16,7 @@ class ROOT(CMake):
         # self._git_branch = "master"
         # self._git_tag = "v4.3.482"
         # self._git_clone_dir = "src"
-        self._cmakelist_path = "src/root_v6.26.04"
+        self._cmakelist_path = "src/root-6.26.04"
 
         self._cmake_options = {
             "CMAKE_CXX_STANDARD": "14",
